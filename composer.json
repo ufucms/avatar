@@ -1,5 +1,5 @@
 {
-    "name": "laravolt/avatar",
+    "name": "ufucms/avatar",
     "description": "Turn name, email, and any other string into initial-based avatar or gravatar.",
     "keywords": [
         "laravel",
